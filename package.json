@@ -3,10 +3,9 @@
   "version": "6.2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bmino/binance-triangle-arbitrage.git"
   },
   "author": {
-    "name": "Brandon Mino"
+    "name": "Zoran"
   },
   "engines": {
     "node": "14.15.4",
